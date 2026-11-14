@@ -65,7 +65,8 @@ def main():
   if choice=="yes":
        main()
   else:
-      print("Thank you ")
+      print("Thank you
+ ")
 main()
 
     
